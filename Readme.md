@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Modal)
-- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Modal/)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Frequent-Q-A)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Frequent-Q-A/)
 
 ## My process
 
