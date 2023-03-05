@@ -29,8 +29,8 @@ Users should be able to:
 
 #### Full Screen
 ![Full screen](./images/Website_preview.jpg)
-#### Modal Display
-![Minimised screen](./images/Website_preview_2.jpg)
+#### Answer Display
+![Show answer screen](./images/Website_preview_2.jpg)
 
 ### Links
 
@@ -53,6 +53,7 @@ This project helped me recap over some concepts of CSS and JS such as  Event lis
 - classList
 - Class addition and removal
 - toggle
+- DOM tree traversing using parentElement
 
 
 
