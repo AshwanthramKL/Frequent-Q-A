@@ -1,6 +1,6 @@
-# Modal
+# Questions and Answers
 
-This is a solution to the Modal project which is a part of John Smilga's 15 JS projects tutorial.
+This is a solution to the Questions and Answers project which is a part of John Smilga's 15 JS projects tutorial.
 
 ## Table of contents
 
@@ -21,7 +21,9 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
-- View the Modal Overlay on click of the Open Modal button.
+- View the Answer on click of the + button.
+- Hide the Answer on click of - button.
+
 
 ### Screenshot
 
